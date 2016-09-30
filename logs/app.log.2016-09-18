@@ -1,0 +1,92 @@
+[DEBUG] 2016-09-18 11:18:51,538 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 11:18:51,577 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 11:18:52,481 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 11:20:48,773 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 11:20:48,801 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 11:20:49,088 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 11:23:07,944 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 11:23:07,976 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 11:23:08,253 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 11:28:19,804 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 11:28:19,830 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 11:28:20,108 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 11:58:05,152 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 11:58:05,184 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 11:58:05,394 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:03:05,185 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:03:05,206 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:03:05,398 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:08:03,761 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:08:03,791 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:08:04,056 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:11:04,098 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:11:04,119 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:11:04,330 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:15:01,576 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:15:01,615 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:15:01,846 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:16:23,032 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:16:23,057 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:16:23,331 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:21:25,834 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:21:25,877 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:21:26,104 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:22:07,326 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:22:07,343 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:22:07,558 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:28:41,948 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:28:41,979 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:28:56,608 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:28:56,632 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:28:56,843 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:35:39,657 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:35:39,678 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:35:39,895 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:37:15,423 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:37:15,446 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:37:15,733 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 12:49:21,607 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 12:49:21,622 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 12:49:21,816 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:07:14,646 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:07:14,808 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:07:15,042 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:09:39,276 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:09:39,316 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:09:39,698 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:31:31,955 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:31:31,976 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:31:32,193 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:38:05,049 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:38:05,080 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:38:05,284 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:46:44,432 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:46:44,460 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:46:44,678 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:50:22,014 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:50:22,044 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:50:22,276 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:56:26,640 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:56:26,661 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:56:26,875 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:57:47,128 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:57:47,153 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:57:47,440 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 13:59:46,776 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 13:59:46,818 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 13:59:47,048 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 14:04:14,156 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 14:04:14,176 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 14:04:14,407 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 14:06:27,510 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 14:06:27,557 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 14:06:27,808 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 14:11:22,378 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 14:11:22,459 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 14:11:22,692 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 14:14:33,918 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 14:14:34,001 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 14:14:34,590 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-18 14:16:29,292 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-18 14:16:29,307 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-18 14:16:29,519 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window

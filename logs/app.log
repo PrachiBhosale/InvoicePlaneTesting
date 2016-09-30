@@ -1,0 +1,36 @@
+[DEBUG] 2016-09-30 08:31:51,173 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-30 08:31:51,249 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-30 08:31:51,652 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-30 08:33:54,117 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2016-09-30 08:33:54,120 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2016-09-30 08:33:54,130 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2016-09-30 08:33:54,133 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2016-09-30 08:33:54,134 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prachi/IdeaProjects/InvoicePlaneTesting/lib/extentreports-java-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2016-09-30 08:34:05,580 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2016-09-30 08:34:05,581 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2016-09-30 08:34:05,581 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2016-09-30 08:34:05,581 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2016-09-30 08:34:05,582 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prachi/IdeaProjects/InvoicePlaneTesting/lib/extentreports-java-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2016-09-30 08:34:13,354 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2016-09-30 08:34:13,354 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2016-09-30 08:34:13,355 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2016-09-30 08:34:13,356 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2016-09-30 08:34:13,356 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prachi/IdeaProjects/InvoicePlaneTesting/lib/extentreports-java-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2016-09-30 08:49:50,092 com.InvoicePlane.utilities.Driver getDriver(62) Setting Browser to CHROME
+[DEBUG] 2016-09-30 08:49:50,116 com.InvoicePlane.utilities.Driver getDriver(64) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2016-09-30 08:49:50,335 com.InvoicePlane.utilities.Driver getDriver(66) Maximising Browser Window
+[DEBUG] 2016-09-30 08:51:50,142 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2016-09-30 08:51:50,144 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2016-09-30 08:51:50,148 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2016-09-30 08:51:50,151 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2016-09-30 08:51:50,152 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prachi/IdeaProjects/InvoicePlaneTesting/lib/extentreports-java-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2016-09-30 08:51:59,034 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2016-09-30 08:51:59,035 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2016-09-30 08:51:59,036 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2016-09-30 08:51:59,036 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2016-09-30 08:51:59,037 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prachi/IdeaProjects/InvoicePlaneTesting/lib/extentreports-java-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2016-09-30 08:52:06,179 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2016-09-30 08:52:06,181 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2016-09-30 08:52:06,182 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2016-09-30 08:52:06,185 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2016-09-30 08:52:06,185 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prachi/IdeaProjects/InvoicePlaneTesting/lib/extentreports-java-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
